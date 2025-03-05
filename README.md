@@ -1,5 +1,9 @@
 # Quantum-LLM
 
+![quantum_state_vectors](https://github.com/user-attachments/assets/d3657f47-9f44-4ad4-a581-4e785835485b)
+
+
+
 
             +----------------------+
             |        Start         |
