@@ -52,9 +52,11 @@ parser = BobcatParser()
 
 # Define your sentences
 sentences = [
-    "Alice loves Bob.",
-    "The cat sat on the mat.",
-    "Quantum computing is fascinating.",
+"Die Handbuch-Kurzfassung enthält gegliedert nach den 5 Phasen des PEP-Antrieb (Grundlagen, Konzeptbaustufe, Baustufe 1,"
+,"Baustufe 2, Serienvorbereitung) alle ca. 50 Prozessbausteine mit Kurzbeschreibungen entsprechend der 2. Detaillierungsebene"
+,"des PEP@VW . Bei diesem Detaillierungsgrad sind jedem Prozessbaustein seine Standarddauer im Prozess und die bei der"
+,"Ausführung beteiligten Geschäftsbereiche zugeordnet. In Summe ergibt sich dadurch ein Standard-Zeitplan für ein Antriebsprojekt"
+,"mit ca. 50 Hauptaktivitäten die im 2. Abschnitt weiter heruntergebrochen werden."
     # Add more sentences as needed
 ]
 
@@ -94,5 +96,5 @@ quantum_circuit = ansatz(rewritten_diagram)
 
 # Visualize the quantum circuit
 quantum_circuit.draw()
-plt.title("Quantum Circuit for Combined Sentences (Rewritten)")
+plt.title("Quantum Circuit for Combined Sentences")
 plt.show()
