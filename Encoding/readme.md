@@ -5,7 +5,11 @@
 
 
 Basis and Amplitude Encodings are foundational methods; while basis encoding is straightforward, amplitude encoding offers qubit efficiency but at the cost of complex state preparation.
+
 Phase/Angle Encoding maps classical information into rotations or phase shifts, leveraging the Bloch sphere’s geometric interpretation.
+
 Q‑Sample Encoding is tailored for quantum machine learning tasks where each classical sample must be represented with high fidelity.
+
 QuAM not only serves as an encoding method but also functions as an associative memory, enabling retrieval based on pattern similarity—a key benefit for tasks like pattern recognition.
+
 Repeated Amplitude Encoding introduces redundancy to boost resilience against quantum noise, an essential feature for practical implementations on current quantum hardware.
