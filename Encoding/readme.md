@@ -13,3 +13,6 @@ Q‑Sample Encoding is tailored for quantum machine learning tasks where each cl
 QuAM not only serves as an encoding method but also functions as an associative memory, enabling retrieval based on pattern similarity—a key benefit for tasks like pattern recognition.
 
 Repeated Amplitude Encoding introduces redundancy to boost resilience against quantum noise, an essential feature for practical implementations on current quantum hardware.
+
+
+![Screenshot 2025-03-07 at 23-45-01 Grok _ X](https://github.com/user-attachments/assets/f48ad93d-78c7-4d0c-bcbf-4f53c2ec7014)
