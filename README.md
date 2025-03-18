@@ -1,5 +1,8 @@
 # Quantum-LLM
 
+
+https://www.youtube.com/watch?v=ZBaXPY_0TNI
+
 ![quantum_state_vectors](https://github.com/user-attachments/assets/d3657f47-9f44-4ad4-a581-4e785835485b)
 
 
